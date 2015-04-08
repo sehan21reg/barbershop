@@ -1,0 +1,7 @@
+aside, nav, footer, header, section { display: block; }
+.top-menu li{
+	float: left;
+}
+.feature-header:after {
+	background: url('../img/'romb.png);
+}
